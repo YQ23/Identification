@@ -1,2 +1,20 @@
 # Identification
 使用MTCNN模型和Facenet模型识别人脸并检测身份
+#
+batch_test.py为测试图片用
+#
+create_dataset.py用来产生数据集的npy文件
+#
+debug.py方便输出时间，查看调试信息等
+#
+face_recogniton.py将MTCNN模型应用于人脸检测
+#
+facenet.py为facenet模型
+#
+file_processing.py方便处理文件
+#
+image_processing.py方便处理图像
+#
+predict.py进行身份检测的应用
+#
+align文件夹包含MTCNN模型
